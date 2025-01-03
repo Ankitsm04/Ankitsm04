@@ -1,23 +1,17 @@
 <h1 align="center">Hi 👋, This is Ankit Mathapati</h1>
-<h3 align="center">A passionate B.tech CSE Banglore,Karnataka,India</h3>
-
-- 🔭 I’m currently working on [-](-)
+<h3 align="center">A passionate B.tech CSE Student in Banglore,Karnataka,India</h3>
 
 - 🌱 I’m currently learning **MERN Stack,AI&ML**
 
-- 👯 I’m looking to collaborate on [-](-)
+- 👯 I’m looking to collaborate on **Frontend Development**
 
-- 🤝 I’m looking for help with [-](-)
-
-- 👨‍💻 All of my projects are available at [-](-)
-
-- 📝 I regularly write articles on [-](-)
+- 👨‍💻 All of my projects are available at **ankit-mathapati.vercel.app**
 
 - 💬 Ask me about **frontend development**
 
 - 📫 How to reach me **ankitsm38@gmail.com**
 
-- 📄 Know about my experiences [-](-)
+- 📄 Know about my experiences **Web Developer Intern @Next24Tech**
 
 - ⚡ Fun fact **I started to use laptop from age of 3**
 
