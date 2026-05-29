@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend Development**
 
-- 👨‍💻 All of my projects are available at [ankit-mathapati.vercel.app](https://ankit-mathapati.vercel.app/)
+- 👨‍💻 All of my projects are available at [ankit-mathapati.me](https://ankit-mathapati.me)
 
 - 💬 Ask me about **MERN stack, Next.js**
 
